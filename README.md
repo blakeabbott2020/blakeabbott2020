@@ -2,9 +2,6 @@
 - 👀 I’m interested in ReactJS and Backend Integration.
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ReactJS Projects
-- 📫 How to reach me:
-  - **E-mail** blakeabbott.dev@gmail.com
-  - **YouTube** Webb
 
 
 
