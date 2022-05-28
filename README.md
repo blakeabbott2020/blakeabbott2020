@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blakeabbott2020
-- 👀 I’m interested in ReactJS and Backend Integration.
-- 🌱 I’m currently learning MongoDB, Express, React, NodeJS.
-- 💞️ I’m looking to collaborate on React, Express, and Node Projects.
+- 👀 I’m interested in Next.JS and Bootstrap Integration.
+- 🌱 I’m currently learning the indepth details of Next.JS, React-Bootstrap, and Bootstrap.
+- 💞️ I’m looking to collaborate on Next.JS and Bootstrap projects.
 
 
 
