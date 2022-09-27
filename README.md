@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blakeabbott2020
-- 👀 I’m interested in Next.JS and Bootstrap Integration.
+- 👀 I’m interested in Next.JS and Bootstrap GUI's.
 - 🌱 I’m currently learning the indepth details of Next.JS, React-Bootstrap, and Bootstrap.
 - 💞️ I’m looking to collaborate on Next.JS and Bootstrap projects.
 
